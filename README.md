@@ -62,25 +62,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alimnlab&theme=tokyonight" alt="Contribution Graph" />
 </p>
-
-## 📊 GitHub Stats & Activity
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alimnlab&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages by Repositories -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimnlab&theme=tokyonight" alt="Top Languages by Repos" />
-</p>
-
-<!-- Most Used Languages by Commit Count -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimnlab&theme=tokyonight" alt="Most Used Languages by Commits" />
-</p>
-
-
 ---
 
 ## 🏆 Trophies
