@@ -55,7 +55,7 @@
 ## 🌐 Contact
 
 <p align="center">
-  <a href="mailto:alimanchr@code.edu.az">
+  <a href="[mailto:alimanchr@code.edu.az](https://mail.google.com/)">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" alt="Gmail"/>
   </a>
   &nbsp;
