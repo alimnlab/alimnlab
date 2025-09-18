@@ -35,15 +35,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimnlab&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimnlab&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimnlab&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alimnlab&theme=tokyonight" alt="Productive Time" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=alimnlab&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimnlab&theme=tokyonight" alt="Top Languages by Repos" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimnlab&theme=tokyonight" alt="Most Used Languages by Commits" />
 </p>
 
 <p align="center">
@@ -55,14 +54,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alimnlab&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimnlab&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimnlab&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimnlab&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alimnlab&theme=tokyonight" alt="Productive Time" />
-</p>
-
 
 ---
 
