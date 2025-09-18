@@ -36,11 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-alimnlab.vercel.app/api?username=alimnlab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alimnlab&theme=tokyonight" alt="Trophies" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats-alimnlab.vercel.app/api/top-langs/?username=alimnlab&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=alimnlab&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
