@@ -61,11 +61,6 @@
   <img src="https://komarev.com/ghpvc/?username=alimnlab&style=flat-square&color=green" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alimnlab" />
-</p>
-
-
 ---
 
 ## 🌐 Contact
