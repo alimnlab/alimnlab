@@ -48,28 +48,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnlab&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimnlab&theme=tokyonight" alt="Top Languages by Repos" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimnlab&theme=tokyonight" alt="Most Used Languages by Commits" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alimnlab&theme=tokyonight" alt="Contribution Graph" />
 </p>
----
 
 ## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alimnlab&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
----
 
 ## 🌐 Contact
 
