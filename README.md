@@ -36,12 +36,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimnlab&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats-alimnlab.vercel.app/api?username=alimnlab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnlab&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://github-readme-stats-alimnlab.vercel.app/api/top-langs/?username=alimnlab&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
 
 ## 🏆 Trophies
