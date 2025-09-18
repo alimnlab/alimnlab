@@ -40,7 +40,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnlab&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimnlab&theme=tokyonight" alt="Top Languages by Repos" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimnlab&theme=tokyonight" alt="Most Used Languages by Commits" />
 </p>
 
 
