@@ -36,13 +36,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alimnlab&theme=tokyonight" alt="Trophies" />
-</p>
-
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=alimnlab&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
@@ -51,6 +47,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alimnlab&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+<p align="center">
+  <img src="https://github.com/alimnlab/alimnlab/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+<img src="https://streak-stats.demolab.com/?user=alimnlab&theme=tokyonight" />
 
 ---
 
