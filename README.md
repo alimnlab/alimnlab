@@ -56,8 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/alimnlab/alimnlab/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alimnlab&theme=tokyonight&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+
 
 
 ---
