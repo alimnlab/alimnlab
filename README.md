@@ -49,10 +49,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alimnlab&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
+---
+
 ## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alimnlab&theme=tokyonight&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alimnlab&style=flat-square&color=tokyonight" alt="Profile views" />
 </p>
 
 
