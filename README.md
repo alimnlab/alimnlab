@@ -39,6 +39,11 @@
   <img src="https://streak-stats.demolab.com/?user=alimnlab&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnlab&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 
 ---
 
